@@ -27,5 +27,4 @@ Software for this car is written in the Arduino IDE using a C++ library for Ardu
 The Arduino IDE can be download [here](https://www.arduino.cc/en/software)
 
 ## Contributors
-Sean Powell
-Jarod Sagendorph
+Sean Powell & Jarod Sagendorph
